@@ -1,0 +1,14 @@
+.gpk-link{
+    text-decoration: none;
+    color: var(--clr2) !important;
+}
+.gpk-link-active{
+    color: var(--clr1)!important;
+}
+.gpk-icon{
+    color: black;
+}
+.gpk-bg{
+    background-color:var(--bg);
+    padding: 0 !important;
+}

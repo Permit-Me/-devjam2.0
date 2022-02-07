@@ -1,0 +1,23 @@
+
+.login_img{
+    object-fit: cover; 
+    object-position: bottom;
+    margin-top: -50px;
+}
+
+.active_page{
+    /* background-image: url(../../../assets/img/accountActivated.jpg); */
+    background-position: center center;
+    background-size:cover;
+    background-repeat: no-repeat;
+    min-height: 91.5vh;
+}
+
+.gpk-logout{
+position: fixed;
+  z-index: 999;
+  overflow: show;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+}
